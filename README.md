@@ -41,8 +41,7 @@ Microsoft Power BI.
 - Interactive filters for guest type and room type
 
 ## 🖼️ Dashboard Preview
-
-![Hotel Booking Dashboard](Images/dashboard-preview.png)
+![Hotel Booking Dashboard](dashboard-preview.jpg)
 
 ## 🔍 Key Insights
 
